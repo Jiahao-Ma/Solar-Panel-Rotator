@@ -5,7 +5,7 @@
 ### This section mainly show the main steps of panels orientation prediction. There are four main steps, including:
 - (1) Predict solar panel.
 
-https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/predict_solar_panel.png
+![Image](https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/predict_solar_panel.png)
 
 - (2) Cut the target from the image.
 - (3) Predict rotation angle.
