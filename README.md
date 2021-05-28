@@ -3,4 +3,7 @@
 
 ## Install
 
-streamlit, numpy, PIL, matplotlib
+streamlit, 
+numpy, 
+PIL, 
+matplotlib
