@@ -5,19 +5,19 @@
 ### This section mainly show the main steps of panels orientation prediction. There are four main steps, including:
 - (1) Predict solar panel.
 
-  <img width=400 height=400 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/predict_solar_panel.png">
+  <img width=450 height=450 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/predict_solar_panel.png">
  
 - (2) Cut the target from the image.
 
-  <img width=400 height=400 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/SinglePanels.png">
+  <img width=350 height=350 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/SinglePanels.png">
  
 - (3) Predict rotation angle.
 
- <img width=400 height=400 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/predict_rotate_angle.png">
+ <img width=450 height=450 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/predict_rotate_angle.png">
 
 - (4) Adjust rotation angle and get the orientation of panels.
 
- <img width=400 height=400 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/draw_orientation.png">
+ <img width=450 height=450 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/draw_orientation.png">
 
  
 ### Dependencies
