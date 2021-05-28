@@ -9,7 +9,7 @@
  
 - (2) Cut the target from the image.
 
-  <img width=350 height=350 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/SinglePanels.png">
+<!--   <img width=350 height=350 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/SinglePanels.png"> -->
  
 - (3) Predict rotation angle.
 
