@@ -6,6 +6,7 @@
 #### Step 1: Predict solar panel. 
 
 At first, solar panel can be detected through existing models such as YOLO, Faster RCNN. Our solar panel detector only predicts the orientation of panel based on the detected results instead of detecting solar panels.
+
 <img width=450 height=450 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/predict_solar_panel.png">
  
 #### Step 2: Cut the target from the image.
@@ -15,11 +16,13 @@ At first, solar panel can be detected through existing models such as YOLO, Fast
 #### Step 3: Predict rotation angle.
 
 Input the cropped images to the model, and then output prediction angle.
+
 <img width=450 height=450 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/predict_rotate_angle.png">
 
 #### Step 4: Adjust rotation angle and get the orientation of panels.
 
 In order to get the orientation of panel, we need to add or subtract 90 degrees from the prediction angle, the output of step 3.
+
 <img width=450 height=450 src="https://github.com/Robert-Mar/Solar-Panel-Rotator/blob/main/results/draw_orientation.png">
 
  
