@@ -1,6 +1,5 @@
 # Solar Panel Rotator
- This app, built with streamlit, performs simple rotate operation on input images. 😎
-
+ This app, built with streamlit, performs simple rotate operation on input images. 😎 The demo illustrates the whole steps of solar panel orientation prediction and also contains the function of labeling. 
 ## Steps of Orientation Prediction
 ### This section mainly show the main steps of panels orientation prediction. There are four main steps, including:
 #### Step 1: Predict solar panel. 
